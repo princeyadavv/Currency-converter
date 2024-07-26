@@ -70,7 +70,7 @@ input[type=text] {
 .convert input {
     background-color: rgb(226, 13, 13);
     border: none;
-    width: 20rem;
+    width: 20vw;
     height: 3rem;
     font-size: 18px;
     font-weight: bold;
