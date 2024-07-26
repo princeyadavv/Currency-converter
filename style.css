@@ -18,7 +18,7 @@ header {
 }
 
 .box {
-    width: 60vw;
+    width: 80vw;
     height: 50vh;
     background-color: white;
     border-radius: 1rem;
@@ -77,7 +77,7 @@ input[type=text] {
     border-radius: 20px;
     color: white;
     cursor: pointer;
-    /* letter-spacing: .1rem; */
+    padding: 0 0.5rem;
 }
 
 .convert input:hover {
